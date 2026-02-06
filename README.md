@@ -1,4 +1,4 @@
-# TP 20 : Architecture Micro-services avec RestTemplate
+# Architecture Micro-services avec RestTemplate
 
 ## 📋 Description
 
